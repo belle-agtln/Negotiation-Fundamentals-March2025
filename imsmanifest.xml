@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest identifier="_6YdiE2LKvGr" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+<manifest identifier="_6825tgFw3WL" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
   <metadata>
     <schema>ADL SCORM</schema>
     <schemaversion>1.2</schemaversion>
@@ -53,23 +53,22 @@
   <organizations default="Negotiation_Fundamentals_ORG">
     <organization identifier="Negotiation_Fundamentals_ORG">
       <title>Negotiation Fundamentals</title>
-      <item identifier="v5_Negotiation_Fundamentals_eLearning_SCO" isvisible="true" identifierref="__6YdiE2LKvGr_RES">
+      <item identifier="v5_Negotiation_Fundamentals_eLearning_SCO" isvisible="true" identifierref="__6825tgFw3WL_RES">
         <title>Negotiation Fundamentals</title>
       </item>
     </organization>
   </organizations>
   <resources>
-    <resource identifier="__6YdiE2LKvGr_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+    <resource identifier="__6825tgFw3WL_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
       <file href="story_content/thumbnail.jpg" />
       <file href="mobile/6lhZjROLLfW_M_224_224.png" />
       <file href="story_content/video_5ogVlwkYdIj_22_56_960x540.mp4" />
       <file href="mobile/poster_62rbkoWlARI_video_5ogVlwkYdIj_22_56_960x540.jpg" />
       <file href="story_content/6VMayA6rUZ9_44100_56_0.mp3" />
-      <file href="mobile/6lhZjROLLfW_M_226_226.png" />
       <file href="story_content/5nRavTIfeZl_44100_56_0.mp3" />
       <file href="mobile/61QJKeZ6O3G_X_P_24_67_1963_1105.jpg" />
-      <file href="story_content/video_5hCPVuIrher_22_56_960x540.mp4" />
-      <file href="mobile/poster_6OeIT3KEYwJ_video_5hCPVuIrher_22_56_960x540.jpg" />
+      <file href="story_content/video_6qGM35kKh7C_22_56_960x540.mp4" />
+      <file href="mobile/poster_6OeIT3KEYwJ_video_6qGM35kKh7C_22_56_960x540.jpg" />
       <file href="story_content/6ZSfdLm1RWc_44100_56_0.mp3" />
       <file href="mobile/6cSjfmr4iPE_P_0_136_2048_1149.jpg" />
       <file href="story_content/6gVBOG8ZlFE_44100_56_0.mp3" />
@@ -86,6 +85,7 @@
       <file href="story_content/66fw7Iu6KKG_44100_56_0.mp3" />
       <file href="mobile/6K7eT0O7p7u.jpg" />
       <file href="story_content/6R7LkPyH1kv_44100_56_0.mp3" />
+      <file href="mobile/6lhZjROLLfW_M_226_226.png" />
       <file href="mobile/6d9qKfX2HZj_P_0_108_2048_1147.jpg" />
       <file href="story_content/5iG1TL6w72h_44100_56_0.mp3" />
       <file href="story_content/6ixv3bnVnwu_44100_56_0.mp3" />
@@ -114,17 +114,11 @@
       <file href="mobile/5tvmPb9lhte.png" />
       <file href="mobile/6gqVvTwUgtm_P_190_0_669_788.png" />
       <file href="mobile/6Cg5JOGgcv2_P_301_0_835_816.png" />
-      <file href="mobile/6r1fk1XoLSx_P_0_64_2048_1147.jpg" />
       <file href="mobile/641zbibpXH1_P_0_0_771_701.png" />
-      <file href="mobile/6r1fk1XoLSx.jpg" />
-      <file href="story_content/video_6DdcjFfDYxE_22_56_978x540.mp4" />
-      <file href="mobile/poster_6IZFAvkx8hP_video_6DdcjFfDYxE_22_56_978x540.jpg" />
-      <file href="mobile/5g1XojY9Vuo_Y_P_774_0_1031_1390.png" />
       <file href="mobile/6m8pEo49Yxq.jpg" />
-      <file href="mobile/5enbLhpQfV6.png" />
+      <file href="mobile/5g1XojY9Vuo_Y_P_774_0_1031_1390.png" />
       <file href="mobile/6N04UbFyBd8.png" />
-      <file href="mobile/poster_600q00wJ8fk_video_6DdcjFfDYxE_22_56_978x540.jpg" />
-      <file href="mobile/poster_5jwRxS28Ypt_video_6DdcjFfDYxE_22_56_978x540.jpg" />
+      <file href="mobile/5enbLhpQfV6.png" />
       <file href="story_content/60ChPJ5zEbN_44100_56_0.mp3" />
       <file href="mobile/5tb2fYC7s95_R062F62.jpg" />
       <file href="mobile/6gqVvTwUgtm_P_235_0_624_816.png" />
